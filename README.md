@@ -2,8 +2,11 @@
  
 [![Linkedin Badge](https://img.shields.io/badge/-andrejrakic-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrejrakic/)](https://www.linkedin.com/in/andrejrakic/)
 [![Medium Badge](https://img.shields.io/badge/-@andrej.rakic-black?style=flat&labelColor=black&logo=medium&logoColor=white&link=https://www.medium.com/@andrej.rakic)](https://www.medium.com/@andrej.rakic)
+[![Instagram Badge](https://img.shields.io/badge/-@andrej__rakic-E1306C?style=flat&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/andrej_rakic/)](https://www.instagram.com/andrej_rakic/)
+
 [![Gist Badge](https://img.shields.io/badge/-Gists-black?style=flat&labelColor=black&logo=github&logoColor=white&link=https://gist.github.com/andrejrakic)](https://gist.github.com/andrejrakic)
-[![Instagram Badge](https://img.shields.io/badge/-@andrej_rakic-E1306C?style=flat&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/andrej_rakic/)](https://www.instagram.com/andrej_rakic/)
+[![GitBook Badge](https://img.shields.io/badge/-Gitbooks-black?style=flat&labelColor=black&logo=github&logoColor=white&link=https://andrej-rakic.gitbook.io/)](https://andrej-rakic.gitbook.io/)
+[![SlideShare Badge](https://img.shields.io/badge/-SlideShare-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.slideshare.net/AndrejRakic/)](https://www.slideshare.net/AndrejRakic/)
 
 Hi, my name is Andrej and I'm Blockchain developer. I enjoy developing Mobile apps the most. Also, I am Cisco CCNA certfied enthusiast in Cybersecurity. And I really ❤️' GitHub. :octocat: 
 
@@ -44,6 +47,19 @@ Hi, my name is Andrej and I'm Blockchain developer. I enjoy developing Mobile ap
 
 ## Blockchain
 
+I am software engineer and blockchain consultant. My main filed in blockchain development is writing & testing smart contracts for the Ethereum blockchain using both Solidity and Vyper languages. I just need to say, Remix IDE is awesome. Also, there's a couple Hyperledger projects aside on which I am currently working. Stay tuned!
+
+I am certified Blockchain engineer by European Blockchain Hub and here is one of the open source projects on which I worked on. <b>More in pinned repos!</b>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Timacum-Development&repo=blockchain-betting)](https://github.com/Timacum-Development/blockchain-betting)
+
+Ever interested how to start with blockchain development or how to create your own Cryptocurrency?! Check out this educational articles which I wrote for [Blockonomi](https://blockonomi.com/author/andrej-rakic/)
+
+[![solidity](solidity.png)](https://blockonomi.com/solidity-tutorial/)
+[![erc20](erc20.png)](https://blockonomi.com/create-ethereum-token/)
+
+<b>Need a Blockchain Conslution? Feel free to ping me!</b>
+
 Also, a little gift to open source community! I'm giving you a list of 100+ Blockchain Resources for Developers ⛓
 
 👇👇👇
@@ -65,6 +81,13 @@ Shoutout to these two amazing repos
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HerrSpace&repo=CCNA-Cheat-Sheet)](https://github.com/HerrSpace/CCNA-Cheat-Sheet)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Manisso&repo=fsociety)](https://github.com/Manisso/fsociety)
 
+## Blog  🖥
+
+Feel free to check some of the most lovable stories from mine blog
+
+[![simpsons](simpsons.png)](https://medium.com/@andrej.rakic/the-simpsons-know-who-satoshi-is-d90849e6414a)
+[![embark](embark.png)](https://medium.com/@andrej.rakic/embark-is-awesome-9eee74fdfb4f)
+
 ## Podcast ⚡️
 <p align="center">
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/podcast.svg"> 
@@ -73,7 +96,7 @@ Shoutout to these two amazing repos
   Coming soon...
 </p>
 
-## GitHub ❤️ VS Code
+<!-- ## GitHub ❤️ VS Code -->
 
 Hats off to Linus Torvalds, Edward Snowden and Elon Musk. Let's create meaningful & quality software, respect our privacy, use secure & free internet worldwide and go to Mars! Thank you for the opportunity to work remote, travel and live life 🚀 
 
