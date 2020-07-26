@@ -55,8 +55,8 @@ I am certified Blockchain engineer by European Blockchain Hub and here is one of
 
 Ever interested how to start with blockchain development or how to create your own Cryptocurrency?! Check out this educational articles which I wrote for [Blockonomi](https://blockonomi.com/author/andrej-rakic/)
 
-[![solidity](solidity.png)](https://blockonomi.com/solidity-tutorial/)
-[![erc20](erc20.png)](https://blockonomi.com/create-ethereum-token/)
+[![solidity](https://github.com/andrejrakic/andrejrakic/blob/master/solidity.png)](https://blockonomi.com/solidity-tutorial/)
+[![erc20](https://github.com/andrejrakic/andrejrakic/blob/master/erc20.png)](https://blockonomi.com/create-ethereum-token/)
 
 <b>Need a Blockchain Conslution? Feel free to ping me!</b>
 
@@ -85,8 +85,8 @@ Shoutout to these two amazing repos
 
 Feel free to check some of the most lovable stories from mine blog
 
-[![simpsons](simpsons.png)](https://medium.com/@andrej.rakic/the-simpsons-know-who-satoshi-is-d90849e6414a)
-[![embark](embark.png)](https://medium.com/@andrej.rakic/embark-is-awesome-9eee74fdfb4f)
+[![simpsons](https://github.com/andrejrakic/andrejrakic/blob/master/simpsons.png)](https://medium.com/@andrej.rakic/the-simpsons-know-who-satoshi-is-d90849e6414a)
+[![embark](https://github.com/andrejrakic/andrejrakic/blob/master/embark.png)](https://medium.com/@andrej.rakic/embark-is-awesome-9eee74fdfb4f)
 
 ## Podcast ⚡️
 <p align="center">
