@@ -14,7 +14,7 @@ Hi, my name is Andrej and I'm Blockchain developer. I enjoy developing Mobile ap
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=andrejrakic&show_icons=true&count_private=true&hide=contribs,prs" />
 </a>
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br />
 
 ## Tech stack
 [![Blockchain](https://img.shields.io/badge/-Blockchain-black?style=for-the-badge&logo=bitcoin&logoColor=white)]()
