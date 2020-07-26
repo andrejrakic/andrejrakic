@@ -2,6 +2,7 @@
  
 [![Linkedin Badge](https://img.shields.io/badge/-andrejrakic-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrejrakic/)](https://www.linkedin.com/in/andrejrakic/)
 [![Medium Badge](https://img.shields.io/badge/-@andrej.rakic-black?style=flat&labelColor=black&logo=medium&logoColor=white&link=https://www.medium.com/@andrej.rakic)](https://www.medium.com/@andrej.rakic)
+[![Gist Badge](https://img.shields.io/badge/-Gists-black?style=flat&labelColor=black&logo=github&logoColor=white&link=https://gist.github.com/andrejrakic)](https://gist.github.com/andrejrakic)
 [![Instagram Badge](https://img.shields.io/badge/-@andrej_rakic-E1306C?style=flat&labelColor=E1306C&logo=instagram&logoColor=white&link=https://www.instagram.com/andrej_rakic/)](https://www.instagram.com/andrej_rakic/)
 
 Hi, my name is Andrej and I'm Blockchain developer. I enjoy developing Mobile apps the most. Also, I am Cisco CCNA certfied enthusiast in Cybersecurity. And I really ❤️' GitHub. :octocat: 
@@ -50,6 +51,19 @@ Also, a little gift to open source community! I'm giving you a list of 100+ Bloc
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=andrejrakic&repo=100-blockchain-developer-resources)](https://github.com/andrejrakic/100-blockchain-developer-resources)
 
 ## React Native
+
+Good starting point in React Native development is this repo & article which I am giving to you
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=andrejrakic&repo=ReactNativeBoilerplate)](https://github.com/andrejrakic/ReactNativeBoilerplate)
+
+[![ReactNativeMedium](https://github.com/andrejrakic/andrejrakic/blob/master/reactnative.png)](https://medium.com/@andrej.rakic/how-to-setup-your-react-native-app-47dcd7d2118e)
+
+## CyberOps
+
+Shoutout to these two amazing repos
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HerrSpace&repo=CCNA-Cheat-Sheet)](https://github.com/HerrSpace/CCNA-Cheat-Sheet)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Manisso&repo=fsociety)](https://github.com/Manisso/fsociety)
 
 ## Podcast ⚡️
 <p align="center">
