@@ -58,6 +58,10 @@ Ever interested how to start with blockchain development or how to create your o
 [![solidity](https://github.com/andrejrakic/andrejrakic/blob/master/solidity.png)](https://blockonomi.com/solidity-tutorial/)
 [![erc20](https://github.com/andrejrakic/andrejrakic/blob/master/erc20.png)](https://blockonomi.com/create-ethereum-token/)
 
+For a Hyperledger developers I highly recommend to use this IBM Blockchain VS Code extension
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=IBM-Blockchain&repo=blockchain-vscode-extension)](https://github.com/IBM-Blockchain/blockchain-vscode-extension)
+
 <b>Need a Blockchain Conslution? Feel free to ping me!</b>
 
 Also, a little gift to open source community! I'm giving you a list of 100+ Blockchain Resources for Developers ⛓
