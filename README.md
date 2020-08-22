@@ -78,7 +78,7 @@ Good starting point in React Native development is this repo & article which I a
 
 [![ReactNativeMedium](https://github.com/andrejrakic/andrejrakic/blob/master/reactnative.png)](https://medium.com/@andrej.rakic/how-to-setup-your-react-native-app-47dcd7d2118e)
 
-## CyberOps
+## DevSecOps
 
 Shoutout to these two amazing repos
 
