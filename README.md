@@ -13,7 +13,7 @@ Hi, my name is Andrej and I'm Blockchain developer. I enjoy developing Mobile ap
 <br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrejrakic&hide=html,ruby" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrejrakic&hide=html,ruby,css" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=andrejrakic&show_icons=true&count_private=true&hide=contribs" />
