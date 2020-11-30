@@ -8,7 +8,7 @@
 [![GitBook Badge](https://img.shields.io/badge/-Gitbooks-black?style=flat&labelColor=black&logo=github&logoColor=white&link=https://andrej-rakic.gitbook.io/)](https://andrej-rakic.gitbook.io/)
 [![SlideShare Badge](https://img.shields.io/badge/-SlideShare-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.slideshare.net/AndrejRakic/)](https://www.slideshare.net/AndrejRakic/)
 
-Hi, my name is Andrej and I'm Blockchain developer. I enjoy developing Mobile apps the most. Also, I am Cisco CCNA certfied enthusiast in Cybersecurity. And I really ❤️' GitHub. :octocat: 
+Hi, my name is Andrej and I'm Blockchain developer. I enjoy developing Mobile apps the most. Also, I am Cisco CCNA certfied enthusiast in Cybersecurity. And I really ❤️ GitHub. :octocat: 
 
 <br />
 
