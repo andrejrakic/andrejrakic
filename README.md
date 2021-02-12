@@ -97,7 +97,9 @@ Feel free to check some of the most lovable stories from mine blog
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/streaming/podcast.svg"> 
 </p>
 <p align="center">
-  Coming soon...
+ <a href="https://open.spotify.com/show/0TLE2uWYKFayqVe5Ccsyvi">
+  <img src="https://pbs.twimg.com/media/Es6fDoDXEAcrNQp?format=jpg&name=medium">
+ </a>
 </p>
 
 <!-- ## GitHub ❤️ VS Code -->
