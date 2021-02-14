@@ -102,7 +102,7 @@ Feel free to check some of the most lovable stories from mine blog
  </a>
 </p>
 
-<!-- ## GitHub ❤️ VS Code -->
+---
 
 <br />
 Hats off to Linus Torvalds, Edward Snowden and Elon Musk. Let's create meaningful & quality software, respect our privacy, use secure & free internet worldwide and go to Mars! Thank you for the opportunity to work remote, travel and live life 🚀 
