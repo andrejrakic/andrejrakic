@@ -19,8 +19,9 @@ Hi, my name is Andrej and I'm Blockchain developer. I enjoy developing Mobile ap
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=andrejrakic&show_icons=true&count_private=true" />
 </a>
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-<img align="left" height="150" src="https://storage.googleapis.com/poapmedia/the-graph-7-2021-logo-1621261559833.png" />
+<img align="left" height="150" src="https://api.poap.xyz/token/274326/image" />
 <img align="left" height="150" src="https://api.poap.xyz/token/569408/image" />
+<img align="left" height="150" src="https://api.poap.xyz/token/1840037/image" />
 <br /><br /><br /><br /><br /><br />
 
 ## Tech stack
